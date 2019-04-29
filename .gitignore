@@ -1,0 +1,3 @@
+new_env_mfdw/
+__pycache__/
+*.sqlite3/
